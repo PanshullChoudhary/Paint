@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#canvas{
+    border: 0.2px solid black;
+}
+#slider-form{
+    height: 7vh;
+    font-size: 45px;
+    font-family: 'Montferrat';
+
+}
+#colorWell{
+    background-color: transparent;
+    border: transparent;
+}
+#slabel{
+    font-size: 45px;
+}
+#content{
+    width: 100%;
+    display: inline-flex;
+    justify-content: space-around;
+}
+#erase{
+    background-color: transparent;
+    border-width: 0;
+}
